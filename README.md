@@ -1,6 +1,7 @@
-# Komal
-drone delivery Project using MS Excel 
-Description in short:Developed a drone-based delivery system to enable efficient and autonomous transportation of goods, incorporating advanced 
+
+Drone delivery Project using MS Excel 
+Description in short:
+- Developed a drone-based delivery system to enable efficient and autonomous transportation of goods, incorporating advanced 
 technologies for seamless operations.
 - Integrated key features such as route optimization, obstacle avoidance, and real-time delivery tracking, ensuring faster and safer 
 deliveries.
