@@ -1,5 +1,5 @@
 
-Drone delivery Project 1 using MS Excel 
+Capstone Drone delivery Project 1 using MS Excel 
 Description in short:
 - Developed a drone-based delivery system to enable efficient and autonomous transportation of goods, incorporating advanced 
 technologies for seamless operations.
